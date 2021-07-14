@@ -55,6 +55,7 @@ hardButton.addEventListener("click" , function(){
         resetButton.textContent = "New Colors";
 	    messageDisplay.textContent = "";
         displayreset();
+	gameOver = false;
 
 
 })
